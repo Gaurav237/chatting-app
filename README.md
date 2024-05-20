@@ -5,29 +5,43 @@ Chatting-App is a MERN stack chat web application designed for real-time communi
 ## Installation
 
 1. Clone the repository:  
-**git clone https://github.com/Gaurav237/chatting-app.git**
+```bash
+git clone https://github.com/Gaurav237/chatting-app.git
+```
 
 2. Navigate to the main directory and install backend dependencies:  
-**cd chatting-app** 
-**npm install**
+```bash
+cd chatting-app
+```
+```bash
+npm install
+```
 
 3. Start the backend server:  
-**npm start**
+```bash
+npm start
+```
 
 4. Navigate to the frontend directory and install frontend dependencies:  
-**cd frontend**  
-**npm install**
+```bash
+cd frontend
+```
+```bash
+npm install
+```
 
 5. Start the frontend development server:  
-**npm start**
+```bash
+npm start
+```
 
 ## Demo Credentials
 
 Use the following credentials to access the demo:
 
-- **Name**: Gaurav Tiwary
-- **Email**: gtiwary237@gmail.com
-- **Password**: 123
+- **Name**: `Gaurav Tiwary`
+- **Email**: `gtiwary237@gmail.com`
+- **Password**: `123`
 
 ## Technologies Used
 
